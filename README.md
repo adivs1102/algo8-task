@@ -1,1 +1,10 @@
-# deploy-mern-app-1
+# auth jwt app 
+
+
+cd backend
+npm i
+npm start
+
+cd frontend
+npm i
+npm start
